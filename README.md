@@ -75,8 +75,12 @@ With the button "on doubleclick..." you tell the wizard, what happens on doublec
   - copy to clipboard   (so you can paste it in the ide)
   - open file           (opens the header file like the button)
   - keyboard injection  (since drag an drop of simple text wont work on Targets like the Editor or the IDE, i push the string to the keyboard-buffer on losing focus. You drag the entry out of the window, release the mouse button and left click in your editor. Some parts of the Line are stripped ("virtual", "void" and everything after ");" )
-  Try it with short strings...unfortunately its not that quick.
+  Try it with short strings... this way not that quick.
   
+  
+ Let me know, if its useful to you or in wich way it could be improved.
+ 
+ Ralph Rathmann: github@rredv.net
   
   
    
