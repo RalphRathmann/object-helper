@@ -1,6 +1,22 @@
 # object-helper
 Helps browsing imported classes for projects in arduino ide and helps getting over the missing code-completion.
 
+    Copyright (C) 2019 Ralph Rathmann
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    
+    
 This Clarion Program scans given paths with header-files of your Arduino IDE (c) (Copyright by Arduino) Installation and imports them in a browse list.
 Here you can find the declarations of your imported classes and use them to paste into your code (into your .ino) or c-file.
 
