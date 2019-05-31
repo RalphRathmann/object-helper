@@ -17,11 +17,18 @@ Helps browsing imported classes for projects in arduino ide and helps getting ov
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
     
     
+    
 This Clarion Program scans given paths with header-files of your Arduino IDE (c) (Copyright by Arduino) Installation and imports them in a browse list.
 Here you can find the declarations of your imported classes and use them to paste into your code (into your .ino) or c-file.
 
 Everything you need for use is to copy the ObjectHelper.exe and its Manifest and the media subfolder from Release to a new directory on your harddisk (Windows only).
 The program creates some .tps files for its own database in this directory and a .ini file for storing informations of window positions.
+
+![alt text](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot1.png)
+![alt text](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot2.png)
+
+
+
 
 Step 1 after Opening the Program: (for later convenience)
 
