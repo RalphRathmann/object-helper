@@ -24,8 +24,8 @@ Here you can find the declarations of your imported classes and use them to past
 Everything you need for use is to copy the ObjectHelper.exe and its Manifest and the media subfolder from Release to a new directory on your harddisk (Windows only).
 The program creates some .tps files for its own database in this directory and a .ini file for storing informations of window positions.
 
-![alt text](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot1.png)
-![alt text](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot2.png)
+![Screenshot 1](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot1.png)
+![Screenshot 2](https://github.com/RalphRathmann/object-helper/blob/master/OHScreenshot2.png)
 
 
 
